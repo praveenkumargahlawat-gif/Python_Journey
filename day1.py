@@ -28,4 +28,5 @@ print(f"Motivation: {motivation}")
 # Optional: Combined summary
 print(f"\nSummary: Python: {skill_level} ({daily_learning_hours}h/day), "
       f"Discipline {Discipline_score}/10, Motivation: {motivation}")
-      
+print("Hello")
+
